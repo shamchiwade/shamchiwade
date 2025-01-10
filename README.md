@@ -2,9 +2,7 @@
  <h2> 🌟About Me</h2>
 <h3 align="center">A Passionate Fullstack Java Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamchiwade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
