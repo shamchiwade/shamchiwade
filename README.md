@@ -9,7 +9,7 @@
 
 - 🌐 **Explore My Portfolio:** [shamchiwade.github.io/shamportfolio](https://shamchiwade.github.io/shamportfolio/)  
 - 💬 **Ask Me About:** Java, Spring Framework, React, and Fullstack Development  
-- 📫 **How to Reach Me:** [shamchiwade@example.com](mailto:chiwadesham5768@gmail.com)
+- 📫 **How to Reach Me:** [chiwadesham5768@gmail.com](mailto:chiwadesham5768@gmail.com)
 
 ---
 
