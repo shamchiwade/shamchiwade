@@ -62,7 +62,7 @@
   <a href="https://linkedin.com/in/sham-chiwade-9a1305250" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sham_chiwade_5" target="_blank">
+  <a href="https://www.instagram.com/chiwade_sham_5?igsh=MThjcjFqM3oyNnRtMg==" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     <a href="https://www.hackerrank.com/chiwadesahm3742" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
