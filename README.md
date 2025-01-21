@@ -3,9 +3,6 @@
 <h3 align="center">A Passionate Fullstack Java Developer</h3>
 
 
-
----
-
 - 🌐 **Explore My Portfolio:** [shamportfolio](https://shamchiwade.github.io/shamportfolio/)  
 - 💬 **Ask Me About:** Java, Spring Framework, React, and Fullstack Development  
 - 📫 **How to Reach Me:** [chiwadesham5768@gmail.com](mailto:chiwadesham5768@gmail.com)
