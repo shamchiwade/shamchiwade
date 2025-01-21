@@ -3,10 +3,9 @@
 <h3 align="center">A Passionate Fullstack Java Developer</h3>
 
 
-- 🌐 **Explore My Portfolio:** [shamportfolio](https://shamchiwade.github.io/shamportfolio/)  
+- 🌐 **Explore My Portfolio:**[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://shamchiwade.github.io/shamportfolio/)
+- 📫 **How to Reach Me:**[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiwadesham5768@gmail.com)
 - 💬 **Ask Me About:** Java, Spring Framework, React, and Fullstack Development  
-- 📫 **How to Reach Me:** [chiwadesham5768@gmail.com](mailto:chiwadesham5768@gmail.com)
-
 
 <h3 align="left">💻 Technologies & Tools</h3>
 <p align="left">
